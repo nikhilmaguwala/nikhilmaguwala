@@ -28,7 +28,8 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: #GitHub Stats</summary>
+  
   
   ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&show_icons=true&theme=radical)
 
