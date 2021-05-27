@@ -29,8 +29,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Nikhil Maguwala's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=nikhilmaguwala&show_icons=true&hide_border=true" />
+  
+  ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&show_icons=true&theme=radical)
 
 </details>
 
