@@ -45,6 +45,16 @@
   </a>
 </details>
 
+<details>
+  <summary><b>Portfolio</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/nikhilmaguwala/'>
+    <img
+        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=nikhilmaguwala&max-items=2&dates=false&style=--item-bg-        color:%23f00;--item-border-radius:10px"
+    />
+  </a>
+</details>
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&amp;show_icons=true" alt="GitHub Stats"></p>
 
