@@ -41,7 +41,7 @@
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/nikhilmaguwala/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmaguwala&padding=30>
+    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmaguwala&padding=30' />
   </a>
 </details>
 
