@@ -39,14 +39,8 @@
 
 <br/>
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&show_icons=true&theme=dracula)
-
-</details>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&amp;show_icons=true" alt="GitHub Stats"></p>
 
 [website]: https://nikhilmaguwala.github.io/
 [instagram]: https://www.instagram.com/nikhil_maguwala/
