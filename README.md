@@ -49,9 +49,7 @@
   <summary><b>Portfolio</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/nikhilmaguwala/'>
-    <img
-        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=nikhilmaguwala&max-items=2&dates=false&style=--item-bg-        color:%23f00;--item-border-radius:10px"
-    />
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=nikhilmaguwala&max-items=2" width="500" height="320"/>
   </a>
 </details>
 
