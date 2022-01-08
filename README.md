@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikhil 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=nikhilmaguwala.nikhilmaguwala)
 
-<img align="right" alt="GIF" src="https://github.com/nikhilmaguwala/nikhilmaguwala/blob/master/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://github.com/nikhilmaguwala/nikhilmaguwala/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a  Engineer!!
 
