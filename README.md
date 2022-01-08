@@ -1,4 +1,5 @@
 ### Hi there, I'm Nikhil 👋
+![](https://visitor-badge.glitch.me/badge?page_id=nikhilmaguwala.nikhilmaguwala)
 
 ## I'm a  Engineer!!
 
