@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nikhilmaguwala.nikhilmaguwala)
 
 <p>
-    <img src="code.gif" width="500" height="320" />
+    <img src="code.gif" width="250" height="160" />
 </p>
 
 ## I'm a  Engineer!!
