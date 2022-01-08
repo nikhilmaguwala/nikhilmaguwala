@@ -1,9 +1,9 @@
 ### Hi there, I'm Nikhil 👋
 
-## I'm a  Developer!!
+## I'm a  Engineer!!
 
-- 🌱 I’m currently learning everything...!
-- 🥅 2021 Goals: Working more with React Native, React and Node JS as Full Stack Dev.
+- 🌱 I’m currently Software Engineer at Lanet Team and Forever Learning..!
+- 🥅 2022 Goals: Learn Computer Science in TU, Germany (Informatik lernen in Deutschland).
 
 ### Connect with me:
 
