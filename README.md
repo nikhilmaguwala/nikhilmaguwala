@@ -5,10 +5,11 @@
     <img src="code.gif" width="250" height="160" />
 </p>
 
-## I'm a  Engineer!!
+## I'm a  Computer Engineer!!
 
-- 🌱 I’m currently Software Engineer at Lanet Team and Forever Learning..!
-- 🥅 2022 Goals: Learn Computer Science in TU, Germany (Informatik lernen in Deutschland).
+- 🌱 Currently Studying Data Science at FAU Erlangen-Nürnberg...!
+- 🌱 I was Software Developer at Lanet Team Software Solutions Pvt. Ltd.
+- 🌱 Studied Computer Engineering from Gujarat Technological University, India.
 
 <h3>Things I code with</h3>
 <p>
