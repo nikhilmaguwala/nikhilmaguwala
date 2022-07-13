@@ -7,6 +7,7 @@
 
 ## I'm a  Computer Engineer!!
 
+- 🌱 Working Student(Python-JS Developer) at Abaut GmbH, Munich, Germany
 - 🌱 Currently Studying Data Science at FAU Erlangen-Nürnberg...!
 - 🌱 I was Software Developer at Lanet Team Software Solutions Pvt. Ltd.
 - 🌱 Studied Computer Engineering from Gujarat Technological University, India.
