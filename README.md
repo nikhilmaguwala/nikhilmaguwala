@@ -7,13 +7,16 @@
 
 ## I'm a  Computer Engineer!!
 
-- 🌱 Working Student(Full Stack Developer) at Abaut GmbH, Munich, Germany. (Mainly working with Angular, Python, Docker and Jenkins).
+- 🌱 Software Developer at Abaut GmbH, Munich, Germany. (Mainly working with Angular, Python, Docker and Jenkins).
 - 🌱 Currently Studying Data Science at FAU Erlangen-Nürnberg...!
 - 🌱 I was Software Developer at Lanet Team Software Solutions Pvt. Ltd.
 - 🌱 Studied Computer Engineering from Gujarat Technological University, India.
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
