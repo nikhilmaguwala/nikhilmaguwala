@@ -1,8 +1,6 @@
 ### Hi there, I'm Nikhil 👋
-![](https://visitor-badge.glitch.me/badge?page_id=nikhilmaguwala.nikhilmaguwala)
 
 [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
-
 
 <p>
     <img src="code.gif" width="250" height="160" />
