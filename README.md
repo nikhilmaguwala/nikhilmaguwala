@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikhil 👋
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg?color=2311cc)](https://hits.sh/github.com/silentsoft/hits/)
 
 <p>
     <img src="code.gif" width="250" height="160" />
