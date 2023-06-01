@@ -53,6 +53,9 @@
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=nikhilmaguwala&amp;show_icons=true" alt="GitHub Stats"></p>
 
+<h2>GitHub Stats</h2>
+![](https://hit.yhype.me/github/profile?user_id=52782379)
+
 [website]: https://nikhilmaguwala.github.io/
 [instagram]: https://www.instagram.com/nikhil_maguwala/
 [linkedin]: https://www.linkedin.com/in/nikhil-maguwala/
