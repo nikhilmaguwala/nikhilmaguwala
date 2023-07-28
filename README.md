@@ -8,7 +8,8 @@
 
 ## I'm a  Computer Engineer!!
 
-- 🌱 Software Developer at Abaut GmbH, Munich, Germany. (Mainly working with Angular, Python, Docker and Jenkins).
+- 🌱 Coding Instructor at [4Geeks Academy](https://4geeks.com/).
+- 🌱 Software Developer at [Abaut GmbH](https://www.abaut.de/), Munich, Germany. (Mainly working with Angular, Python, Docker and Jenkins).
 - 🌱 Currently Studying Data Science at FAU Erlangen-Nürnberg...!
 - 🌱 I was Software Developer at Lanet Team Software Solutions Pvt. Ltd.
 - 🌱 Studied Computer Engineering from Gujarat Technological University, India.
