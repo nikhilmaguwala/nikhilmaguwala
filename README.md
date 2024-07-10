@@ -44,7 +44,12 @@
 </p>
 
 <h2>Language & Framework Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&api_domain=wakapi.dev&show_icons=true&theme=dark" alt="GitHub Stats"></p>
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&api_domain=wakapi.dev&show_icons=true&theme=dark&custom_title=All%20Time%20Stats" alt="GitHub Stats"></p>
+
+
+
 
 <h2>Visitors</h2>
 
