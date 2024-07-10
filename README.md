@@ -43,9 +43,6 @@
     <a href="https://www.linkedin.com/in/nikhil-maguwala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-<h2>Coding Activity</h2>
-<p><img src="https://wakapi.dev/api/activity/chart/nikhilmaguwala.svg" alt="GitHub Stats"></p>
-
 <h2>Language & Framework Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&api_domain=wakapi.dev&show_icons=true&theme=dark" alt="GitHub Stats"></p>
 
