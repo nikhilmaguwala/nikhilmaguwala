@@ -14,17 +14,14 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 02 July 2024 - To: 10 July 2024
+```txt
+Total Time: 21 hrs 50 mins
 
-Total Time: 20 hrs 30 mins
-
-Python        6 hrs 12 mins   >>>>>>>------------------   28.39 %
-JavaScript    5 hrs 33 mins   >>>>>>-------------------   25.48 %
-HTML          2 hrs 45 mins   >>>----------------------   12.60 %
-TypeScript    2 hrs 9 mins    >>-----------------------   09.91 %
-JSON          1 hr 27 mins    >>-----------------------   06.68 %
-Other         1 hr 19 mins    >>-----------------------   06.08 %
+Python        6 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.39 %
+JavaScript    5 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
+HTML          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+TypeScript    2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+JSON          1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
 ```
 
 <!--END_SECTION:waka-->
