@@ -2,7 +2,7 @@
 
 [![hits](https://hits.sh/github.com/silentsoft/hits.svg?color=2311cc)](https://hits.sh/github.com/silentsoft/hits/)
 
-<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/nikhilmaguwala/interval:30_days&label=last 30d" />
+[![wakatime](https://wakatime.com/badge/user/369b6a3a-7953-4ff9-b7c7-be53d0a7ccc6.svg)](https://wakatime.com/@369b6a3a-7953-4ff9-b7c7-be53d0a7ccc6)
 
 
 ## I'm a  Computer Engineer!!
@@ -45,10 +45,11 @@
 
 <h2>Language & Framework Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Week%20Stats&layout=compact)
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&api_domain=wakapi.dev&show_icons=true&theme=dark&custom_title=All%20Time%20Stats" alt="GitHub Stats"></p>
+<p><img src="https://wakatime.com/share/@nikhilmaguwala/c3a602bc-d71e-4537-af7e-60f99b3f8806.svg" alt="GitHub Stats"></p>
 
+<h2>Coding Activity</h2>
 
+<p><img src="https://wakatime.com/share/@nikhilmaguwala/7dd532b8-3e5e-4c26-8c46-68cc27712a92.svg" alt="GitHub Stats"></p>
 
 
 <h2>Visitors</h2>
