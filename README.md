@@ -92,9 +92,10 @@ CSS                      2 repos             █░░░░░░░░░░�
  Last Updated on 12/07/2024 00:31:41 UTC
 <!--END_SECTION:waka-->
 
-<h2>Language & Framework Stats</h2>
+<h2>Language Stats</h2>
 
-<p><img src="https://wakatime.com/share/@nikhilmaguwala/c3a602bc-d71e-4537-af7e-60f99b3f8806.svg" alt="GitHub Stats"></p>
+[![Nikhil's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&layout=compact&title=Stats)](https://github.com/nikhilmaguwala)
+
 
 <h2>Coding Activity</h2>
 
