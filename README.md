@@ -2,6 +2,8 @@
 
 [![hits](https://hits.sh/github.com/silentsoft/hits.svg?color=2311cc)](https://hits.sh/github.com/silentsoft/hits/)
 
+[![wakatime](https://wakatime.com/badge/user/369b6a3a-7953-4ff9-b7c7-be53d0a7ccc6.svg)](https://wakatime.com/@369b6a3a-7953-4ff9-b7c7-be53d0a7ccc6)
+
 ## I'm a  Computer Engineer!!
 
 - 🌱 Software Developer at [Abaut GmbH](https://www.abaut.de/), Munich, Germany. (Mainly working with Angular, Python, Docker and Jenkins).
