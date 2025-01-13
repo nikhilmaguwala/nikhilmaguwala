@@ -73,7 +73,7 @@ VS Code                  1 hr 12 mins        █░░░░░░░░░░�
 
 <h3>Where to find me</h3>
 <p>
-<a href="nikhilmaguwala.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://www.nikhilmaguwala.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-    badge&logo=About.me&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nikhil-maguwala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     <a href="https://www.instagram.com/nikhil_maguwala/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://github.com/nikhilmaguwala" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
