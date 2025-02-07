@@ -15,7 +15,7 @@
 <h2>Here is My Stats..</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20million%20lines%20of%20code-blue)
 
@@ -46,13 +46,13 @@ Sunday                   281 commits         ███░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 🔥 Editors: 
-Chrome                   10 hrs 15 mins      ███████████████████░░░░░░   77.04 % 
-VS Code                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-WebStorm                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Chrome                   7 hrs 53 mins       ████████████████████░░░░░   78.17 % 
+VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+WebStorm                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 
 
- Last Updated on 06/02/2025 00:38:27 UTC
+ Last Updated on 07/02/2025 00:38:22 UTC
 <!--END_SECTION:waka-->
 
 <h2>Language Stats</h2>
