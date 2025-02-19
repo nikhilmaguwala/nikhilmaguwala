@@ -21,6 +21,7 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE: "False"  # Set to False to hide language-related charts
           SHOW_OS: "False"
+          SHOW_EDITORS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
