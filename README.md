@@ -46,10 +46,6 @@ Sunday                   281 commits         ██░░░░░░░░░�
  Last Updated on 29/03/2025 00:40:51 UTC
 <!--END_SECTION:waka-->
 
-<h2>Language Stats</h2>
-
-[![Nikhil's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhilmaguwala&layout=compact&title=Stats)](https://github.com/nikhilmaguwala)
-
 
 <h2>Coding Activity</h2>
 
