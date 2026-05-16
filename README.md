@@ -15,8 +15,35 @@
 <h2>Here is My Stats..</h2>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 02:46:53 UTC
+```text
+🌞 Morning                107916 commits      ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌆 Daytime                214682 commits      ██████████████░░░░░░░░░░░   55.37 % 
+🌃 Evening                58929 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+🌙 Night                  6164 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   42303 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  91584 commits       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Wednesday                50805 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 41900 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Friday                   78621 commits       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Saturday                 33852 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Sunday                   48626 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+```
+
+
+ Last Updated on 16/05/2026 02:16:10 UTC
 <!--END_SECTION:waka-->
 
 
