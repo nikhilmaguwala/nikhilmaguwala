@@ -15,10 +15,12 @@
 <h2>Here is My Stats..</h2>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2027%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                132294 commits      ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+🌞 Morning                132295 commits      ███████░░░░░░░░░░░░░░░░░░   27.87 % 
 🌆 Daytime                260949 commits      ██████████████░░░░░░░░░░░   54.98 % 
 🌃 Evening                73512 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 🌙 Night                  7891 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
@@ -26,7 +28,7 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   51135 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Monday                   51136 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Tuesday                  110378 commits      ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
 Wednesday                65053 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 Thursday                 51977 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
@@ -42,8 +44,30 @@ Sunday                   59155 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 02:44:53 UTC
+```text
+⏱ AI Coding Time: 20 mins (1.2%)
+
+✍️ 6 lines written by AI, 20 lines written by hand (23.08% AI-written)
+
+🔤 88,756 Input Tokens, 1,808 Output Tokens
+
+💵 $0.29 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 10 AI Prompts
+
+Github-Copilot           6 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 23.08% of written lines came from AI
+📚 Verbose Prompter — average 1,681 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 82.35% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:39:39 UTC
 <!--END_SECTION:waka-->
 
 
