@@ -31,3 +31,17 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
+
+      - name: Checkout updated README
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Pull latest README commit
+        run: git pull --ff-only origin ${{ github.ref_name }}
+
+      - name: Save stats to portfolio database
+        env:
+          PORTFOLIO_STATS_API_URL: ${{ secrets.PORTFOLIO_STATS_API_URL }}
+          STATS_SYNC_SECRET: ${{ secrets.STATS_SYNC_SECRET }}
+        run: node scripts/push-stats-to-portfolio.mjs
