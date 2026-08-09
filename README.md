@@ -52,16 +52,12 @@ Sunday                   59662 commits       ███░░░░░░░░�
 
 <h3>Where to find me</h3>
 <p>
-    <a href="https://nikhil-maguwala.vercel.app/?ref=readme" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/nikhil-maguwala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="https://www.instagram.com/nikhil_maguwala/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://github.com/nikhilmaguwala" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://nikhil-maguwala.vercel.app/?ref=readme" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/nikhil-maguwala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/nikhil_maguwala/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/nikhilmaguwala" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=nikhilmaguwala&label=Profile%20views&color=6e56cf&style=for-the-badge" />
 </p>
-
-
-<h2>Visitors</h2>
-
-![Visitor Count](https://profile-counter.glitch.me/nikhilmaguwala/count.svg)
 
 [website]: https://nikhil-maguwala.vercel.app/?ref=readme
 [instagram]: https://www.instagram.com/nikhil_maguwala/
