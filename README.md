@@ -12,44 +12,18 @@
 - 🌱 Was Software Developer at [La Net Team Software Solution Pvt. Ltd.](https://lanetteam.com/) (Aug 2020 – Feb 2022).
 - 🎓 M.Sc. Data Science, [FAU Erlangen-Nürnberg](https://www.fau.de/) (2022–2024) | B.E. Computer Engineering, [Gujarat Technological University](https://www.gtu.ac.in/) (2017–2021).
 
+<!--CODECLOCK:START-->
 <h2>Here is My Stats..</h2>
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                47732 commits       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-🌆 Daytime                115353 commits      ██████████████░░░░░░░░░░░   56.87 % 
-🌃 Evening                35381 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-🌙 Night                  4364 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   21897 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Tuesday                  36429 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Wednesday                28266 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Thursday                 18016 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Friday                   37528 commits       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Saturday                 25520 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Sunday                   35174 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-```
-
-
- Last Updated on 18/10/2026 02:39:15 UTC
-<!--END_SECTION:waka-->
-
+<p><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/dayparts.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261018#gh-dark-mode-only" alt="When I code" /><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/dayparts.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261018#gh-light-mode-only" alt="When I code" /></p>
+<p><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/weekdays.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261018#gh-dark-mode-only" alt="Most productive day" /><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/weekdays.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261018#gh-light-mode-only" alt="Most productive day" /></p>
+<p><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/languages.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261018#gh-dark-mode-only" alt="Languages" /><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/languages.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261018#gh-light-mode-only" alt="Languages" /></p>
 
 <h2>Coding Activity</h2>
 
-<p><img src="https://wakatime.com/share/@nikhilmaguwala/7dd532b8-3e5e-4c26-8c46-68cc27712a92.svg" alt="GitHub Stats"></p>
+<p><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/heatmap.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261018#gh-dark-mode-only" alt="Coding activity" /><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/heatmap.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261018#gh-light-mode-only" alt="Coding activity" /></p>
+<!--CODECLOCK:END-->
+
 
 <h3>Where to find me</h3>
 <p>

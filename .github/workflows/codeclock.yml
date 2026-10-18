@@ -1,0 +1,51 @@
+name: CodeClock refresh
+
+# Runs daily at 02:00 Europe/Berlin. GitHub cron is UTC, so it fires at 00:00 and 01:00 UTC
+# and the gate step lets only the run that lands on 02:xx Berlin time continue (handles DST).
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Only at 02:xx Berlin time
+        id: gate
+        run: |
+          hour=$(TZ=Europe/Berlin date +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" != "02" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - name: Wake the API and warm the charts
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          grep -oE 'https://[^"]*/card/[a-z]+\.svg[^"#]*' README.md | sort -u | while read -r url; do
+            curl -fsS --retry 5 --retry-delay 15 --retry-all-errors --max-time 90 -o /dev/null "$url"
+            echo "ok $url" | cut -c1-90
+          done
+
+      - name: Bump cache buster so GitHub refetches the images
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          today=$(TZ=Europe/Berlin date +%Y%m%d)
+          sed -i -E "s/(\/card\/[a-z]+\.svg[^\"#]*&v=)[0-9]{8}/\1${today}/g" README.md
+
+      - name: Commit
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "codeclock-bot"
+          git config user.email "codeclock-bot@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Refresh CodeClock stats" && git push)
