@@ -1,11 +1,13 @@
 name: CodeClock refresh
 
-# Runs daily at 02:00 Europe/Berlin. GitHub cron is UTC, so it fires at 00:00 and 01:00 UTC
-# and the gate step lets only the run that lands on 02:xx Berlin time continue (handles DST).
+# Refreshes your CodeClock charts once a day, shortly after 02:00 (Europe/Berlin).
+# GitHub cron runs on UTC and often starts late, so two schedules cover summer and winter time.
+# A run does the work only if it is past 02:00 Europe/Berlin and today's refresh has not happened yet.
+# The other runs finish in seconds and do nothing, that is normal.
 on:
   schedule:
-    - cron: "0 0 * * *"
-    - cron: "0 1 * * *"
+    - cron: "17 0 * * *"
+    - cron: "17 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,25 +17,25 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Only at 02:xx Berlin time
+      - uses: actions/checkout@v4
+
+      - name: Check if a refresh is due
         id: gate
         run: |
           hour=$(TZ=Europe/Berlin date +%H)
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" != "02" ]; then
+          today=$(TZ=Europe/Berlin date +%Y%m%d)
+          if [ "${{ github.event_name }}" = "schedule" ] && { [ "$((10#$hour))" -lt "$((10#02))" ] || grep -q "&v=$today" README.md; }; then
+            echo "Nothing to do now (hour $hour, already refreshed or too early)"
             echo "run=false" >> "$GITHUB_OUTPUT"
           else
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
-
-      - uses: actions/checkout@v4
-        if: steps.gate.outputs.run == 'true'
 
       - name: Wake the API and warm the charts
         if: steps.gate.outputs.run == 'true'
         run: |
           grep -oE 'https://[^"]*/card/[a-z]+\.svg[^"#]*' README.md | sort -u | while read -r url; do
             curl -fsS --retry 5 --retry-delay 15 --retry-all-errors --max-time 90 -o /dev/null "$url"
-            echo "ok $url" | cut -c1-90
           done
 
       - name: Bump cache buster so GitHub refetches the images
