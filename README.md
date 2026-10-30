@@ -15,13 +15,13 @@
 <!--CODECLOCK:START-->
 <h2>Here is My Stats..</h2>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/dayparts.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261029"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/dayparts.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261029" alt="When I code" /></picture></p>
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/weekdays.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261029"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/weekdays.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261029" alt="Most productive day" /></picture></p>
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/languages.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261029"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/languages.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261029" alt="Languages" /></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/dayparts.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261030"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/dayparts.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261030" alt="When I code" /></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/weekdays.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261030"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/weekdays.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261030" alt="Most productive day" /></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/languages.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261030"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/languages.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261030" alt="Languages" /></picture></p>
 
 <h2>Coding Activity</h2>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/heatmap.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261029"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/heatmap.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261029" alt="Coding activity" /></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/heatmap.svg?days=0&tz=Europe%2FBerlin&theme=dark&v=20261030"><img src="https://devtime-api-rxc1.onrender.com/public/Cpj_4qjYjRcWj2hkQmueSBCECZk-5zKA/card/heatmap.svg?days=0&tz=Europe%2FBerlin&theme=light&v=20261030" alt="Coding activity" /></picture></p>
 <!--CODECLOCK:END-->
 
 
